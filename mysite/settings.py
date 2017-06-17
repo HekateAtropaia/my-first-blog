@@ -25,7 +25,7 @@ SECRET_KEY = '5-2foz)wh7dsnd9v(+rbx-5+i@pv#^@$%z)&hj(s7w-@5be@jg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'creativlove.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'creativelove.pythonanywhere.com']
 
 
 # Application definition
